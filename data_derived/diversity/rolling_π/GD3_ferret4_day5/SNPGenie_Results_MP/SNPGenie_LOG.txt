@@ -1,0 +1,9 @@
+file	product	site	LOG
+NA	NA	NA	SNPGenie initiated at local time Mon Jan 20 12:36:44 2020
+temp_vcf4_GD3_ferret4_day5.vcf	NA	629	Variant data at this site imply a negative number of G nucleotides: -28969. This most often results from variants which are assigned to the wrong site in the SNP Report. Results at this site are unreliable; G count set to 0; proceed with caution.
+temp_vcf4_GD3_ferret4_day5.vcf	NA	629	Variant data at this site imply a negative proportion of G nucleotides of -0.950208285498737. This may result from rounding error, in which case the number will be very small in magnitude, or variants which are assigned to the wrong site in the SNP Report. If the latter, results at this site are unreliable. In either case, G prop has set to 0; proceed with caution.
+temp_vcf4_GD3_ferret4_day5.vcf	NA	629	Coverage (30487.000) does not equal the nucleotide sum (59456.000).
+temp_vcf4_GD3_ferret4_day5.vcf	M1	629	Variant data at this site imply a negative number of G nucleotides: -28969. This most often results from variants which are assigned to the wrong site in the SNP Report. Results at this site are unreliable; G count set to 0; proceed with caution.
+temp_vcf4_GD3_ferret4_day5.vcf	M1	629	Variant data at this site imply a negative proportion of G nucleotides of -0.950208285498737. This may result from rounding error, in which case the number will be very small in magnitude, or variants which are assigned to the wrong site in the SNP Report. If the latter, results at this site are unreliable. In either case, G prop has set to 0; proceed with caution.
+temp_vcf4_GD3_ferret4_day5.vcf	M1	628	Nucleotide total does not equal 100.00% of coverage, but instead 195.02%. This should occur only when conflicting coverages have been reported
+NA	NA	NA	SNPGenie completed at local time Mon Jan 20 12:36:45 2020. The process took 1.00 secs, i.e., 0 mins and 1.00 secs

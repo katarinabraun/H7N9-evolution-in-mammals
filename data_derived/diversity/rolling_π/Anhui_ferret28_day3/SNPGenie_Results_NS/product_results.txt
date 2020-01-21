@@ -1,0 +1,3 @@
+file	product	N_diffs	S_diffs	N_diffs_vs_ref	S_diffs_vs_ref	N_sites	S_sites	piN	piS	mean_dN_vs_ref	mean_dS_vs_ref	mean_gdiv_polymorphic	mean_N_gdiv	mean_S_gdiv
+temp_vcf4_Anhui_ferret28_day3.vcf	NEP	0	0	1.99781999377141	0	291.662306654209	74.3311533271048	0	0	0.0068497709446562	0	-2.9912847275128	*	*
+temp_vcf4_Anhui_ferret28_day3.vcf	NS1	0	0	0	0	501.000000000001	150	0	0	0	0	*	*	*

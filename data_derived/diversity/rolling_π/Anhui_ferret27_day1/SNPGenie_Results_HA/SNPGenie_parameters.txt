@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: 0.01
+SLIDING WINDOW LENGTH: 50
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: ../data_derived/diversity/rolling_π/Anhui_ferret27_day1/Anhui_ferret27_day1_averaged_HA.vcf
+REFERENCE FASTA FILE: User submitted file: ../data_derived/diversity/rolling_π/Anhui_ferret27_day1/A_ANHUI_1_2013_H7.fasta
+GTF FILE: User submitted file: ../data_derived/diversity/rolling_π/Anhui_ferret27_day1/A_ANHUI_1_2013_H7.gtf
+COMPLEMENT MODE: No

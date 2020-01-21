@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: 0.01
+SLIDING WINDOW LENGTH: 50
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: ../data_derived/diversity/rolling_π/CA04_ferret36_day3/CA04_ferret36_day3_averaged_NS.vcf
+REFERENCE FASTA FILE: User submitted file: ../data_derived/diversity/rolling_π/CA04_ferret36_day3/A_CALIFORNIA_04_2009_NS.fasta
+GTF FILE: User submitted file: ../data_derived/diversity/rolling_π/CA04_ferret36_day3/A_CALIFORNIA_04_2009_NS.gtf
+COMPLEMENT MODE: No
