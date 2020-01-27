@@ -2,6 +2,8 @@
 code/.DS_Store
 code/.ipynb_checkpoints/
 data_derived/.DS_Store
+data_derived/SNV_by_gene_segment/.ipynb_checkpoints/
+data_derived/avian_vs_mammalian/~$SNV_list.xlsx
 figures/.DS_Store
 data_derived/avian_vs_mammalian/cleaned_csvs/*
 data_derived/avian_vs_mammalian/SNV_list.xlsx
